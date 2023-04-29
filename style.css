@@ -351,7 +351,16 @@
       .navbar-nav .nav-item {
         margin-right: 15px;
       }
-    
+      .navbar-brand{
+        font-size: 17px;
+      }
+     .nav-link{
+        font-size: 12px;
+        font-weight: 600;
+     }
+     #btn-nav{
+        font-size:12px;
+     }
     #hero_text {
         display: flex;
         align-items: end;
