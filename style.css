@@ -225,7 +225,7 @@
 }
 .baseline{
     margin-top: 45px;
-    font-size: 16px;
+    font-size: 22px;
     line-height: 1;
     text-align: center;
 }
@@ -252,11 +252,11 @@
 
 .h3-title{
     color: white;
-    font-size: 22px;
+    font-size: 30px;
 }
 .h4-text{
     color: white;
-    font-size: 13px;
+    font-size: 18px;
 }
 .row.coins{
     
@@ -337,48 +337,6 @@
 
 /*************************************media*/
 
-@media only screen and (min-width: 380px) and (max-width: 766px) {
-    .navbar-brand{
-        font-size: 18px;
-    }
-    .h2-title{
-        font-size: 12px;
-        
-    }
-    .p-hero {
-        font-size: 12px;
-    }
-    .h2_titles span {
-        font-size: 10px; /* Decrease font size */
-        margin-top: 30px; /* Adjust margin */
-      }
-      .h3-title{
-        font-size: 22px;
-    }
-    .h4-text{
-        font-size: 12px;
-    } 
-    .codeqr{
-        width: 60%;
-    }
-    .v-mail{
-        max-width: 50%;
-        height: auto;
-        margin:auto;
-        text-align: center;
-    }
-    .scan{
-        font-size: 70px;
-    }
-    .s-title{
-        display:none;
-    }
-    .qrcode{
-        width: 40%;
-        margin: auto;
-    }
-   
-}
 @media (max-width: 767px){
     .h1-title {
         font-size: 40px;
