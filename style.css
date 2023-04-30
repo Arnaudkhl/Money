@@ -380,6 +380,7 @@
     }
     .s-title{
         text-align: center;
+
     }
     /* Styles pour le bouton mobile */
     .btn-nav-mobile {
@@ -430,7 +431,7 @@
     }
     }
 /*******************tab*****************/
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 2224px) {
     .navbar-brand{
         font-size: 30px;
       }
